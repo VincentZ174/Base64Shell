@@ -1,5 +1,5 @@
 # Base64Shell
-A python reverse shell that encodes commands being sent to the victim machine and output sent to the attacker machine in base64.
+A multiclient python reverse shell that encodes commands being sent to the victim machine and output sent to the attacker machine in base64.
 
 # Important
 - Don't forget to change the HOST field in the shell file to the victim's 
