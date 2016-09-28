@@ -7,6 +7,7 @@ A python reverse shell that encodes commands being sent to the victim machine an
 - Written in python 2.7
 
 # Features
+- Ctrl-C to refresh list of connected victims
 - Download -  Type in "download filename" to download a file from the victim machine 
 - Upload - Type in "upload filename" to upload a file from the attack machine
 - Example: download 1.txt , upload 1.txt
