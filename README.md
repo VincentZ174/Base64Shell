@@ -7,6 +7,9 @@ Make sure you run the server first
 
 # Features
 Download -  Type in "download filename" to download a file from the victim machine 
+
 Upload - Type in "upload filename" to upload a file from the attack machine
+
 Example: download 1.txt , upload 1.txt
+
 Quit - type "quit" to exit
