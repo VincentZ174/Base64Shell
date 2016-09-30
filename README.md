@@ -8,7 +8,7 @@ A multiclient python reverse shell that encodes commands being sent to the victi
 
 # Usage 
 - Server  
-  dsada
+    dsada
 
 # Features
 - Ctrl-C to refresh list of connected victims
