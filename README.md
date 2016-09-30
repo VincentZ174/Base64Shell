@@ -12,3 +12,6 @@ A multiclient python reverse shell that encodes commands being sent to the victi
 - Upload - Type in "upload filename" to upload a file from the attack machine
 - Example: download 1.txt , upload 1.txt
 - Quit - type "quit" to exit
+
+# Extra  
+Convert shell.py to exe using Py2exe(http://www.py2exe.org)
