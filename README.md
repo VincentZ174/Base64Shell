@@ -7,8 +7,8 @@ A multiclient python reverse shell that encodes commands being sent to the victi
 - Written in python 2.7
 
 # Usage 
-- Server  
-    dsada
+Server: python server.py
+Victim: python shell.py(converting the shell.py file to an exe and sending it to the victim is a better idea)
 
 # Features
 - Ctrl-C to refresh list of connected victims
