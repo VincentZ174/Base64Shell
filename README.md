@@ -6,6 +6,10 @@ A multiclient python reverse shell that encodes commands being sent to the victi
 - Make sure you run the server first
 - Written in python 2.7
 
+# Usage 
+- Server  
+  dsada
+
 # Features
 - Ctrl-C to refresh list of connected victims
 - Download -  Type in "download filename" to download a file from the victim machine 
@@ -15,3 +19,4 @@ A multiclient python reverse shell that encodes commands being sent to the victi
 
 # Extra  
 Convert shell.py to exe using Py2exe(http://www.py2exe.org)
+
