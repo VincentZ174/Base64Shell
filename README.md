@@ -17,6 +17,6 @@ A multiclient python reverse shell that encodes commands being sent to the victi
 - Example: download 1.txt , upload 1.txt
 - Quit - type "quit" to exit
 
-# Extra  
+# Extra Information  
 Convert shell.py to exe using Py2exe(http://www.py2exe.org)
 
